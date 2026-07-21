@@ -1,6 +1,6 @@
 import { Estado } from './estado';
 
-export interface Producto {
+export interface Cliente {
     idCliente: number;
     nombreCliente: string;
     apellido: string;
